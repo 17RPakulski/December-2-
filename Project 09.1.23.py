@@ -7,37 +7,48 @@ playerCards = []
 # Greet user
 print('Hello, Welcome to BlackJack')
 
-# single player or Multiplayer
-'''ADD LATER:
-s_m = int(input('Would you like to play Single-Player or Multi-Player?\n\n1: Single-player     2: Multi-Player\nEnter Single-Player or Multi-Player: '))
-if s_m == 1:
-    print('-------------------------')
-    p1 = input('Player 1 Name: ')
-else:
-    print('-------------------------')
-    p1 = input('Player 1 Name: ')
-    p2 = input('Player 2 Name: ')
-'''
+
 
 def total(l):
     for item in l:
-        if item[0] == 'A'
-        # valuse of A
+        pass 
     
+    
+
 for i in range(2):
     dealerCard = random.choice(c)
     c.remove(dealerCard)
     dealerCards.append(dealerCard)
 
+
+
+
+'''
     playerCard = random.choice(c)
     c.remove(playerCard)
     playerCards.append(playerCard)
-
+'''
 
 
 print('Dealers cards:', dealerCards)
-dealerTotal = 
-print('Players cards:', playerCards)
+#dealerTotal = 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#print('Players cards:', playerCards)
+
 
 
 
