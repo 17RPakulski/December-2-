@@ -1,0 +1,10 @@
+card list created
+
+prints welcome
+
+input if singleplayer or multiplayer
+
+givecard function called
+	adds a random card into dealercardlist
+	deletes the card from the list
+	
