@@ -1,0 +1,26 @@
+card list created
+
+prints welcome
+
+input if singleplayer or multiplayer
+
+givecard function called	
+	adds a random card into dealercardlist
+	deletes the card from the card list
+
+	adds a random card intp playercardlist
+	removed card from the card list
+
+	if the game is multiplayer:
+		add a random card into player 2 card list
+		remove the card from the card list
+
+hidefirstdealercard function is called
+	make a copy list called dealercardlist2
+	remove the first item and replace with '#'
+
+
+	
+		
+		
+	
